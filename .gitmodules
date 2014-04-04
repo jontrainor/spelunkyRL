@@ -1,0 +1,6 @@
+[submodule "js/lib/rot.js"]
+	path = js/lib/rot.js
+	url = https://github.com/ondras/rot.js.git
+[submodule "js/lib/underscore"]
+	path = js/lib/underscore
+	url = https://github.com/jashkenas/underscore.git
